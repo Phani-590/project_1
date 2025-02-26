@@ -8,5 +8,9 @@ namespace Farmer_To_Customer.Controllers
         {
             return View();
         }
+          public IActionResult add()
+        {
+            return View();
+        }
     }
 }
